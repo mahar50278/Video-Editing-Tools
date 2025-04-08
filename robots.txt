@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://<mahar50278>.github.io/<Video-Editing-Tools>/sitemap.xml
