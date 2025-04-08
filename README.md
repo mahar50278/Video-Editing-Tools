@@ -1,2 +1,8 @@
-# Video-Editing-Tools
-Description: 📹 A curated collection of video editing tools, scripts, and guides.  This repository includes: ✔ CapCut APK Download – Latest official &amp; mod versions (no watermark). ✔ FFmpeg scripts – Automation for batch video processing. ✔ OpenShot &amp; DaVinci Resolve – Templates &amp; configs. ✔ YouTube editing shortcuts – Time-saving presets. 
+# CapCut APK Download Guide
+
+CapCut is a popular video editing app by ByteDance. For a detailed guide on downloading and installing the latest **CapCut APK**, check out this [blog post](https://ufapps.xyz/capcut-apk-download-premium/)
+
+Features:
+- No watermark
+- Advanced editing tools
+- Free effects & transitions
